@@ -1,14 +1,10 @@
 ### Hi! 👋 I'm Bayu.
 
-Who I am?
+I'm currently active as Undergraduate Student at Industrial and Systems Engineering ITS.
 
-I'm currently active in ....
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Machine Learning at Bangkit Academy
-- 💬 Feel free to ask me about ...
+- 🔭 I’m a fast learner and Tech enthusiast.
+- 🌱 I’m currently learning about Machine Learning at Bangkit Academy 2023 led by Google, GoTo, and Traveloka
 - 📫 How to reach me: bayuajiprasetyo2304@gmail.com
-- ⚡ Fun fact: ...
 
   
 ### Github Statistic
